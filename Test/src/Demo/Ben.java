@@ -7,6 +7,12 @@ public class Ben {
 
     public int ext(int a, int b) {
         return a - b;
+    }public int ext(int a, int b) {
+        return a - b;
+    }public int ext(int a, int b) {
+        return a - b;
+    }public int ext(int a, int b) {
+        return a - b;
     }
 
 
