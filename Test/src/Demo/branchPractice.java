@@ -17,10 +17,10 @@ public class branchPractice {
             System.out.print(output[i]+" ");
         }
 
-        int i = 0;
+        int z = 0;
         String revTem = "";
-        for (int j = input[i].length() - 1; j >= 0; j--) {
-            revTem += input[i].charAt(j);.
+        for (int j = input[z].length() - 1; j >= 0; j--) {
+            revTem += input[z].charAt(j);
 
             for (int i = 0; i <= output.length - 1; i++) {
             System.out.print(output[i]+" ");
